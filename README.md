@@ -2,12 +2,12 @@
 This project demonstrates how to use Power Query Editor in Excel to clean and standardize an Audible dataset. The goal is to prepare the dataset for further analysis by ensuring data consistency and formatting. The following tasks are accomplished:
 
 ## Tasks
-### 1. Standardize Name Column
+#### 1. Standardize Name Column
 
 - Convert names in the "name" column to title casing to ensure consistent capitalization.
-### 2. Separate Combined Author Names
+#### 2. Separate Combined Author Names
 
-Split combined first and last names in the "author" column into separate columns for first and last names.
+- Split combined first and last names in the "author" column into separate columns for first and last names.
 Consistent Date Formatting
 
 Ensure all entries in the "releasedate" column follow a consistent date format (DD-MM-YYYY).
